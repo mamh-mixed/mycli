@@ -7,8 +7,8 @@ from prompt_toolkit.completion import Completer, Completion
 from mycli.packages.completion_engine import suggest_type
 from mycli.packages.filepaths import complete_path, parse_path, suggest_path
 from mycli.packages.parseutils import last_word
-from mycli.packages.special.favoritequeries import FavoriteQueries
 from mycli.packages.special import llm
+from mycli.packages.special.favoritequeries import FavoriteQueries
 
 _logger = logging.getLogger(__name__)
 
