@@ -1,3 +1,11 @@
+Upcoming (TBD)
+==============
+
+Internal
+--------
+* Add test coverage for `client_query.py`.
+
+
 1.74.0 (2026/06/06)
 ==============
 
