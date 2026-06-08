@@ -1,3 +1,11 @@
+Upcoming (TBD)
+==============
+
+Internal
+--------
+* Improve test coverage for `output.py`.
+
+
 1.74.0 (2026/06/06)
 ==============
 
